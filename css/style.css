@@ -1,0 +1,9 @@
+header {
+    background-color: #102A43;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+main {
+    background-color: #102A43;
+}
